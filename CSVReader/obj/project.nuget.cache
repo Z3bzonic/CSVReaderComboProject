@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FwDSlZAYvcmxFeNo0x7BCDCNyel7BC5XR+vLYBtFXiGKmqCd3FTdQi6fHVMuvIH0QbYmvsSoVY5xZC0zTQ+lbg==",
+  "dgSpecHash": "UapFttGiK10XfJlCskT1Ik/t5zB8WdhNI1KBh1aBOXel97KEbkjfQpQV15JwnPxdpYB9jRHl6YpyAFydihELSg==",
   "success": true,
-  "projectFilePath": "Z:\\repos\\Cursus\\CsharpDeel2\\OOP\\CSV\\CSVReader\\CSVReader\\CSVReader.csproj",
+  "projectFilePath": "C:\\Users\\Zentop\\source\\repos\\CSVReaderComboProject\\CSVReader\\CSVReader.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

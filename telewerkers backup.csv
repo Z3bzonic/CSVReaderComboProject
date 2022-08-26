@@ -1,0 +1,101 @@
+year;q;category;data1;data2;data3;direction;department
+2018;2018 - Q1;Algemene diensten;62;547;339;Services généraux;Corporate services
+2018;2018 - Q2;Build;57;143;81;Build;Build
+2018;2018 - Q3;Assets Management;5;6538;320;Assets Management;Assets Management
+2018;2018 - Q3;Build;65;144;93;Build;Build
+2018;2018 - Q4;Build;68;144;98;Build;Build
+2018;2018 - Q4;Information & Communication Technology;39;854;333;Information & Communication Technology;Information & Communication Technology
+2018;2018 - Q4;Traffic Management & Services;13;2373;300;Traffic Management & Services;Traffic Management & Services
+2019;2019 - Q1;Assets Management;6;6518;418;Assets Management;Assets Management
+2019;2019 - Q1;Traffic Management & Services;14;2363;339;Traffic Management & Services;Traffic Management & Services
+2019;2019 - Q2;Algemene diensten;72;534;384;Services généraux;Corporate services
+2019;2019 - Q3;Totaal;16;10322;1637;Total;Total
+2019;2019 - Q3;Assets Management;7;6460;434;Assets Management;Assets Management
+2019;2019 - Q3;Build;75;144;108;Build;Build
+2019;2019 - Q4;Build;73;153;112;Build;Build
+2019;2019 - Q4;Algemene diensten;77;535;414;Services généraux;Corporate services
+2019;2019 - Q4;Traffic Management & Services;16;2279;373;Traffic Management & Services;Traffic Management & Services
+2020;2020 - Q1;Totaal;39;10110;3936;Total;Total
+2020;2020 - Q1;Assets Management;29;6301;1797;Assets Management;Assets Management
+2020;2020 - Q2;Totaal;42;9956;4135;Total;Total
+2020;2020 - Q2;Traffic Management & Services;31;2211;681;Traffic Management & Services;Traffic Management & Services
+2020;2020 - Q3;Build;95;173;165;Build;Build
+2021;2021 - Q1;Information & Communication Technology;89;895;801;Information & Communication Technology;Information & Communication Technology
+2021;2021 - Q1;Traffic Operations;17;1713;286;Traffic Operations;Traffic Operations
+2021;2021 - Q2;Build;94;195;183;Build;Build
+2021;2021 - Q4;Customer & Business Excellence;94;442;417;Customer & Business Excellence;Customer & Business Excellence
+2021;2021 - Q4;Information & Communication Technology;88;901;796;Information & Communication Technology;Information & Communication Technology
+2021;2021 - Q4;Algemene diensten;97;516;498;Services généraux;Corporate services
+2018;2018 - Q1;Assets Management;4;6710;278;Assets Management;Assets Management
+2018;2018 - Q1;Information & Communication Technology;35;845;296;Information & Communication Technology;Information & Communication Technology
+2018;2018 - Q2;Totaal;13;10526;1356;Total;Total
+2018;2018 - Q2;Algemene diensten;67;546;365;Services généraux;Corporate services
+2018;2018 - Q3;Information & Communication Technology;39;860;337;Information & Communication Technology;Information & Communication Technology
+2019;2019 - Q1;Build;74;141;105;Build;Build
+2019;2019 - Q3;Information & Communication Technology;41;878;362;Information & Communication Technology;Information & Communication Technology
+2019;2019 - Q4;Information & Communication Technology;44;873;387;Information & Communication Technology;Information & Communication Technology
+2020;2020 - Q2;Build;96;166;160;Build;Build
+2020;2020 - Q2;Algemene diensten;98;535;526;Services généraux;Corporate services
+2020;2020 - Q3;Assets Management;25;6161;1522;Assets Management;Assets Management
+2020;2020 - Q4;Algemene diensten;98;532;519;Services généraux;Corporate services
+2020;2020 - Q4;Traffic Management & Services;32;2170;684;Traffic Management & Services;Traffic Management & Services
+2021;2021 - Q1;Totaal;40;9866;3982;Total;Total
+2021;2021 - Q1;Build;92;197;182;Build;Build
+2021;2021 - Q1;Algemene diensten;98;533;521;Services généraux;Corporate services
+2021;2021 - Q2;Customer & Business Excellence;98;438;429;Customer & Business Excellence;Customer & Business Excellence
+2021;2021 - Q2;Information & Communication Technology;89;885;788;Information & Communication Technology;Information & Communication Technology
+2021;2021 - Q2;Algemene diensten;98;523;513;Services généraux;Corporate services
+2021;2021 - Q3;Totaal;39;9628;3728;Total;Total
+2021;2021 - Q3;Assets Management;27;5907;1583;Assets Management;Assets Management
+2021;2021 - Q3;Build;93;193;179;Build;Build
+2021;2021 - Q3;Information & Communication Technology;88;901;795;Information & Communication Technology;Information & Communication Technology
+2021;2021 - Q4;Assets Management;28;5862;1652;Assets Management;Assets Management
+2021;2021 - Q4;Traffic Operations;15;1624;238;Traffic Operations;Traffic Operations
+2018;2018 - Q1;Traffic Management & Services;11;2450;270;Traffic Management & Services;Traffic Management & Services
+2018;2018 - Q2;Traffic Management & Services;12;2394;279;Traffic Management & Services;Traffic Management & Services
+2018;2018 - Q4;Assets Management;6;6517;370;Assets Management;Assets Management
+2019;2019 - Q1;Algemene diensten;73;546;398;Services généraux;Corporate services
+2019;2019 - Q2;Totaal;16;10359;1617;Total;Total
+2019;2019 - Q2;Information & Communication Technology;41;856;351;Information & Communication Technology;Information & Communication Technology
+2019;2019 - Q3;Algemene diensten;72;535;386;Services généraux;Corporate services
+2019;2019 - Q3;Traffic Management & Services;15;2305;347;Traffic Management & Services;Traffic Management & Services
+2019;2019 - Q4;Totaal;17;10225;1765;Total;Total
+2020;2020 - Q1;Algemene diensten;97;537;522;Services généraux;Corporate services
+2020;2020 - Q2;Assets Management;31;6172;1932;Assets Management;Assets Management
+2020;2020 - Q2;Information & Communication Technology;96;872;836;Information & Communication Technology;Information & Communication Technology
+2020;2020 - Q3;Information & Communication Technology;89;892;797;Information & Communication Technology;Information & Communication Technology
+2020;2020 - Q3;Traffic Management & Services;30;2196;650;Traffic Management & Services;Traffic Management & Services
+2018;2018 - Q1;Totaal;12;10695;1265;Total;Total
+2018;2018 - Q1;Build;57;143;82;Build;Build
+2018;2018 - Q2;Assets Management;5;6603;312;Assets Management;Assets Management
+2018;2018 - Q2;Information & Communication Technology;38;840;319;Information & Communication Technology;Information & Communication Technology
+2018;2018 - Q3;Totaal;14;10451;1414;Total;Total
+2018;2018 - Q3;Algemene diensten;69;547;377;Services généraux;Corporate services
+2018;2018 - Q3;Traffic Management & Services;12;2362;287;Traffic Management & Services;Traffic Management & Services
+2018;2018 - Q4;Totaal;14;10434;1477;Total;Total
+2018;2018 - Q4;Algemene diensten;69;546;376;Services généraux;Corporate services
+2019;2019 - Q1;Totaal;15;10426;1614;Total;Total
+2019;2019 - Q1;Information & Communication Technology;41;858;354;Information & Communication Technology;Information & Communication Technology
+2019;2019 - Q2;Assets Management;7;6476;435;Assets Management;Assets Management
+2019;2019 - Q2;Build;74;146;108;Build;Build
+2019;2019 - Q2;Traffic Management & Services;14;2347;339;Traffic Management & Services;Traffic Management & Services
+2019;2019 - Q4;Assets Management;8;6385;479;Assets Management;Assets Management
+2020;2020 - Q1;Build;97;157;153;Build;Build
+2020;2020 - Q1;Information & Communication Technology;93;878;816;Information & Communication Technology;Information & Communication Technology
+2020;2020 - Q1;Traffic Management & Services;29;2237;648;Traffic Management & Services;Traffic Management & Services
+2020;2020 - Q3;Totaal;37;9959;3655;Total;Total
+2020;2020 - Q3;Algemene diensten;97;537;521;Services généraux;Corporate services
+2020;2020 - Q4;Totaal;40;9955;3977;Total;Total
+2020;2020 - Q4;Assets Management;29;6174;1785;Assets Management;Assets Management
+2020;2020 - Q4;Build;93;188;174;Build;Build
+2020;2020 - Q4;Information & Communication Technology;91;891;815;Information & Communication Technology;Information & Communication Technology
+2021;2021 - Q1;Assets Management;29;6100;1777;Assets Management;Assets Management
+2021;2021 - Q1;Customer & Business Excellence;97;428;415;Customer & Business Excellence;Customer & Business Excellence
+2021;2021 - Q2;Totaal;40;9697;3891;Total;Total
+2021;2021 - Q2;Assets Management;29;5989;1728;Assets Management;Assets Management
+2021;2021 - Q2;Traffic Operations;15;1667;250;Traffic Operations;Traffic Operations
+2021;2021 - Q3;Customer & Business Excellence;97;437;425;Customer & Business Excellence;Customer & Business Excellence
+2021;2021 - Q3;Algemene diensten;96;528;507;Services généraux;Corporate services
+2021;2021 - Q3;Traffic Operations;14;1662;239;Traffic Operations;Traffic Operations
+2021;2021 - Q4;Totaal;40;9533;3777;Total;Total
+2021;2021 - Q4;Build;94;188;176;Build;Build

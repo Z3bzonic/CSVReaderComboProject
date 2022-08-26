@@ -1,0 +1,15 @@
+Z:\repos\Cursus\CsharpDeel2\OOP\CSV\CSVReader\CSVReader\bin\Debug\net6.0\CSVReader.exe
+Z:\repos\Cursus\CsharpDeel2\OOP\CSV\CSVReader\CSVReader\bin\Debug\net6.0\CSVReader.deps.json
+Z:\repos\Cursus\CsharpDeel2\OOP\CSV\CSVReader\CSVReader\bin\Debug\net6.0\CSVReader.runtimeconfig.json
+Z:\repos\Cursus\CsharpDeel2\OOP\CSV\CSVReader\CSVReader\bin\Debug\net6.0\CSVReader.dll
+Z:\repos\Cursus\CsharpDeel2\OOP\CSV\CSVReader\CSVReader\bin\Debug\net6.0\CSVReader.pdb
+Z:\repos\Cursus\CsharpDeel2\OOP\CSV\CSVReader\CSVReader\obj\Debug\net6.0\CSVReader.csproj.AssemblyReference.cache
+Z:\repos\Cursus\CsharpDeel2\OOP\CSV\CSVReader\CSVReader\obj\Debug\net6.0\CSVReader.GeneratedMSBuildEditorConfig.editorconfig
+Z:\repos\Cursus\CsharpDeel2\OOP\CSV\CSVReader\CSVReader\obj\Debug\net6.0\CSVReader.AssemblyInfoInputs.cache
+Z:\repos\Cursus\CsharpDeel2\OOP\CSV\CSVReader\CSVReader\obj\Debug\net6.0\CSVReader.AssemblyInfo.cs
+Z:\repos\Cursus\CsharpDeel2\OOP\CSV\CSVReader\CSVReader\obj\Debug\net6.0\CSVReader.csproj.CoreCompileInputs.cache
+Z:\repos\Cursus\CsharpDeel2\OOP\CSV\CSVReader\CSVReader\obj\Debug\net6.0\CSVReader.dll
+Z:\repos\Cursus\CsharpDeel2\OOP\CSV\CSVReader\CSVReader\obj\Debug\net6.0\refint\CSVReader.dll
+Z:\repos\Cursus\CsharpDeel2\OOP\CSV\CSVReader\CSVReader\obj\Debug\net6.0\CSVReader.pdb
+Z:\repos\Cursus\CsharpDeel2\OOP\CSV\CSVReader\CSVReader\obj\Debug\net6.0\CSVReader.genruntimeconfig.cache
+Z:\repos\Cursus\CsharpDeel2\OOP\CSV\CSVReader\CSVReader\obj\Debug\net6.0\ref\CSVReader.dll
